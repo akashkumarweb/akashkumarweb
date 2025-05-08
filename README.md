@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Frontend Engineer London | React/Next.js Expert | Web Performance Specialist</h1>
+  <h1>Frontend Engineer | React/Next.js Expert | Web Performance Specialist</h1>
 
   <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
     <div>🏆 5+ Years Experience</div>
