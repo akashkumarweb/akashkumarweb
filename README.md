@@ -26,21 +26,6 @@
 » 40% Conversion Lift 
 </div>
 
----
-
-### 🧠 Cognitive Authority Builders
-
-<details>
-  <summary><b>📚 Technical Playbooks (Click to Expand)</b></summary>
-  
-  ```mermaid
-  graph LR
-    A[Next.js Optimization] --> B[SSR Caching Strategies]
-    A --> C[Dynamic Imports]
-    A --> D[ISR Implementation]
-    B --> E[Redis Layer]
-    C --> F[Route-based Splitting]
-    D --> G[On-demand Revalidation]
 
 <script type="application/ld+json" style="display: none;">
 {
