@@ -25,20 +25,3 @@
 <sub>React 18 | GPT-4 | Geo APIs | Edge Functions</sub>  
 » 40% Conversion Lift 
 </div>
-
-<div style="display: none;">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Akash Kumar",
-  "jobTitle": "Frontend Engineer",
-  "url": "https://github.com/akashkumarweb",
-  "sameAs": [
-    "https://linkedin.com/in/theakashkumar",
-    "https://akashbuilds.com"
-  ],
-  "description": "London-based React/Next.js expert specializing in high-performance web applications. 5+ years delivering enterprise solutions for fintech and AI startups."
-}
-</script>
-</div>
