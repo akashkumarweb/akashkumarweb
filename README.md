@@ -1,35 +1,60 @@
-<p align="center">
-  <a href="https://akashbuilds.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash;Frontend+Developer;" alt="Typing SVG" />
-  </a>
-</p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Akash Kumar",
+  "jobTitle": "Frontend Engineer",
+  "url": "https://github.com/akashkumarweb",
+  "sameAs": [
+    "https://linkedin.com/in/theakashkumar",
+    "https://akashbuilds.com"
+  ],
+  "description": "London-based React/Next.js expert specializing in high-performance web applications. 5+ years delivering enterprise solutions for fintech and AI startups."
+}
+</script>
 
-<p align="center">
-  <a href="https://linkedin.com/in/theakashkumar">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<div align="center">
+  <h1>Frontend Engineer London | React/Next.js Expert | Web Performance Specialist</h1>
+
+  <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
+    <div>🏆 5+ Years Experience</div>
+    <div>🚀 15+ Production Apps</div>
+    <div>💡 97% Client Retention</div>
+    <div>⚡ 90+ Lighthouse Scores</div>
+  </div>
+
+</div>
+
 
 ---
 
-### 🛠️ Tech Stack
+### 🌐 Semantic Project Showcase
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
+[![Crypto Dashboard](https://img.shields.io/badge/Featured_Project-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://akashbuilds.com/#portfolio)
+**Real-time Crypto Analytics**  
+<sub>Next.js 14 | WebGL | WebSockets | Microservices</sub>  
+» 50ms Real-time Updates » 90+ Accessibility Score » 1M+ API Calls/Day
 
-**Tools & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![AI Travel Planner](https://img.shields.io/badge/Hot_Project-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://easytripai.com/)
+**AI-Powered Itinerary Generator**  
+<sub>React 18 | GPT-4 | Geo APIs | Edge Functions</sub>  
+» 40% Conversion Lift 
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 🧠 Cognitive Authority Builders
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashkumarweb&theme=react-dark&hide_border=true&area=true" />
-</p>
+<details>
+  <summary><b>📚 Technical Playbooks (Click to Expand)</b></summary>
+  
+  ```mermaid
+  graph LR
+    A[Next.js Optimization] --> B[SSR Caching Strategies]
+    A --> C[Dynamic Imports]
+    A --> D[ISR Implementation]
+    B --> E[Redis Layer]
+    C --> F[Route-based Splitting]
+    D --> G[On-demand Revalidation]
