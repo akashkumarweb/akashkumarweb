@@ -41,7 +41,7 @@
     B --> E[Redis Layer]
     C --> F[Route-based Splitting]
     D --> G[On-demand Revalidation]
-</details>
+
 <script type="application/ld+json" style="display: none;">
 {
   "@context": "https://schema.org",
