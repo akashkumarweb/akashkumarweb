@@ -26,8 +26,8 @@
 » 40% Conversion Lift 
 </div>
 
-
-<script type="application/ld+json" style="display: none;">
+<div style="display: none;">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
@@ -41,3 +41,4 @@
   "description": "London-based React/Next.js expert specializing in high-performance web applications. 5+ years delivering enterprise solutions for fintech and AI startups."
 }
 </script>
+</div>
