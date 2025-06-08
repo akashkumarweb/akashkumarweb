@@ -1,27 +1,45 @@
-<div align="center">
-  <h1>Frontend Engineer | React/Next.js Expert | Web Performance Specialist</h1>
+# 👋 Hey, I'm Akash
 
-  <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
-    <div>🏆 5+ Years Experience</div>
-    <div>🚀 15+ Production Apps</div>
-    <div>💡 97% Client Retention</div>
-    <div>⚡ 90+ Lighthouse Scores</div>
-  </div>
-</div>
+I'm a **Frontend Developer based in London, UK**, passionate about crafting fast, accessible, and responsive web applications using **React**, **Next.js**, and **TypeScript**.
 
 ---
 
-### 🌐 Semantic Project Showcase
+## 💼 What I Do
 
-<div align="center">
+- 🌐 Build modern web apps with **React**, **Next.js**, and **Tailwind CSS**
+- ⚡ Optimize performance, SEO, and accessibility (Core Web Vitals focused)
+- 📱 Mobile-first and responsive design thinking
+- 🛠 Integrate APIs, CMSs, and headless architectures (e.g. Sanity, GraphQL)
+- 🧪 Write clean, tested, maintainable frontend code
 
-[![Crypto Dashboard](https://img.shields.io/badge/Featured_Project-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://akashbuilds.com/#portfolio)  
-**Real-time Crypto Analytics**  
-<sub>Next.js 14 | WebGL | WebSockets | Microservices</sub>  
-» 50ms Real-time Updates » 90+ Accessibility Score » 1M+ API Calls/Day
+---
 
-[![AI Travel Planner](https://img.shields.io/badge/Hot_Project-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://easytripai.com/)  
-**AI-Powered Itinerary Generator**  
-<sub>React 18 | GPT-4 | Geo APIs | Edge Functions</sub>  
-» 40% Conversion Lift 
-</div>
+## 🚀 Featured Projects
+
+### [My Portfolio Website](https://akashbuilds.com)  
+_Built with Next.js + TypeScript + Tailwind CSS_  
+> A fast, accessible personal site to showcase my projects and frontend skills.
+
+### [AI Trip Planner](https://easytripai.com/)  
+React + Vite + API integration | Realtime data  
+> Travel planning platform with a dynamic frontend, integrating external APIs for real-time itinerary
+generation.
+
+---
+
+## 🔍 Keywords That Describe Me
+
+**Frontend Developer** • **React Developer** • **Next.js** • **TypeScript** • **London-based**  
+**Performance Optimization** • **Portfolio** • **UI/UX** • **Web Accessibility** • **Modern Web**
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [akashbuilds.com](https://akashbuilds.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/theakashkumar/)
+- 📧 hello@akashbuilds.com
+
+---
+
+> *“Good code is invisible to users. Great experiences are built on it.”*
