@@ -38,7 +38,7 @@ generation.
 
 - 💼 [akashbuilds.com](https://akashbuilds.com)
 - 💬 [LinkedIn](https://www.linkedin.com/in/theakashkumar/)
-- 📧 hello@akashbuilds.com
+- 📧 contact@akashbuilds.com
 
 ---
 
