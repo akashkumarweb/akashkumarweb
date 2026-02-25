@@ -50,10 +50,3 @@ A cyber-minimal React component library with automated token pipelines, visual r
 📍 **Location:** London, UK  
 🎓 **MSc Advanced Computer Science** - University of Hertfordshire
 
----
-
-### 📊 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=theakashkmr&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=00f0ff&text_color=f8f9fa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theakashkmr&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=f8f9fa)
