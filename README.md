@@ -34,7 +34,7 @@ A cyber-minimal React component library with automated token pipelines, visual r
 - Automated accessibility testing + Chromatic visual regression
 - **Live Storybook:** https://ui-helix.vercel.app/
 
-#### [Design System Tokens](https://github.com/theakashkmr/helix-ui/tree/main/src/tokens) ⭐ *Pinned*
+#### [Design System Tokens](https://github.com/akashkumarweb/helix-ui/tree/main/tokens) ⭐ *Pinned*
 - Cross-platform token pipeline (CSS/SCSS/JS)
 - Semantic token layers (primitives → semantics → components)
 - Dark theme architecture
