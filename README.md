@@ -97,17 +97,6 @@ Component library development, design system implementation, cross-team UI engin
 **Frontend Developer — SMS-Magic**
 Built CRM dashboard UIs on the Salesforce platform used by 50,000+ users. React, SASS, performance optimisation, accessibility.
 
----
-
-## GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashkumarweb&show_icons=true&theme=dark&bg_color=080d1a&title_color=7c3aed&icon_color=14b8a6&text_color=ffffff&border_color=ffffff15&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkumarweb&layout=compact&theme=dark&bg_color=080d1a&title_color=7c3aed&text_color=ffffff&border_color=ffffff15&hide_border=false)
-
-</div>
 
 ---
 
