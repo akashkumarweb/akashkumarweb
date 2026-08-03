@@ -22,7 +22,6 @@ MSc Advanced Computer Science — University of Hertfordshire
 
 ### Looking for
 Mid-level React or UI engineering roles in the UK. Visa sponsorship transferable.
-
-📫 contact@akashbuilds.com  
+  
 🌐 [akashbuilds.com](https://akashbuilds.com)  
 💼 [LinkedIn](https://linkedin.com/in/akashbuilds)
